@@ -1,4 +1,4 @@
-# Installing Kali Linux on VirtualBox
+# EX-7-Kali/Cent OS -Installation
 
 ## Objective:
 Install and configure Kali Linux in Oracle VM VirtualBox.
