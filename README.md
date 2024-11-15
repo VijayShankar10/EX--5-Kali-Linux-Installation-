@@ -1,16 +1,16 @@
 # EX-7-Kali/Cent OS -Installation
 
-## Objective:
+## Aim:
 Install and configure Kali Linux in Oracle VM VirtualBox.
 
-## Pre-requisites:
+## Specifications:
 - A system with Oracle VM VirtualBox installed.
 - At least 4 GB RAM and 20 GB free disk space.
 - Kali Linux ISO image, which can be downloaded from the official website.
 
 ---
 
-## Step-by-Step Installation Guide:
+## Procedure & output:
 
 ### Step 1: Download Kali Linux ISO
 1. Go to the [Kali Linux download page](https://www.kali.org/downloads/).
